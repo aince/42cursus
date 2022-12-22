@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/alperenns_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alperenns_/" height="30" width="40" />
   
-  <a href="https://www.linkedin.com/in/Alperen İnce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Alperen İnce/" height="30" width="40" /></a> 
+  <a href="https://www.linkedin.com/in/alperen-ince/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alperen-ince/" height="30" width="40" /></a> 
 
 
 # 📊 GitHub Stats:
