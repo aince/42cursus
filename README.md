@@ -1,1 +1,1 @@
-42 Cursus Projeleri
+42 Cursus Projects
